@@ -5,6 +5,7 @@ import Table from '../ui/Table';
 import TableHead from '../ui/TableHead';
 import TableBody from '../ui/TableBody';
 import TabelRow from '../ui/TableRow';
+import TableCell from '../ui/TableCell';
 
 storiesOf('UI/Table', module).addWithJSX('Table 예제', () => (
   <Table>
